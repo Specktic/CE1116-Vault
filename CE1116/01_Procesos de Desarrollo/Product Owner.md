@@ -1,0 +1,1 @@
+Es la persona responsable de maximizar el valor del producto y gestionar el backlog 

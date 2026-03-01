@@ -1,0 +1,1 @@
+Son los criterios que se deben cumplir para poder definir una tarea como termindada completamente 

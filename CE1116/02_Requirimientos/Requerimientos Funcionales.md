@@ -1,0 +1,1 @@
+Las funciones que el sistema debe poder realizar (eficacia)

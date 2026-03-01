@@ -1,0 +1,1 @@
+Es la medida de cuanto trabajo se completa en un sprint

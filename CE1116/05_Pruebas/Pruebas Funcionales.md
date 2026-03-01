@@ -1,0 +1,1 @@
+Son las pruebas que se la hacen al sistema para verificar que cumple con los requisitos funcionales 

@@ -1,0 +1,1 @@
+Son las tareas del product backlog que se planean completar en el sprint

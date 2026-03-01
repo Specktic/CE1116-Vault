@@ -1,0 +1,1 @@
+Son los requisitos que decriben el comportamiento deseado del sistema para poder cumplir con los requisitos de negocio

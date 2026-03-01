@@ -1,0 +1,1 @@
+Son los que tienen interes en el producto o se ven afectados por el producto de manera directa o indirecta.

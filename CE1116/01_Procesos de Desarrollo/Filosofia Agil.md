@@ -1,0 +1,1 @@
+Es un enfoque de desarrollo que se basa en iteraciones y colaboracion constante que se adapta al cambio

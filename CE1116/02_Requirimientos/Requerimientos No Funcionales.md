@@ -1,0 +1,1 @@
+Describen como se debe comportar el sistema pero en terminos de calidad (eficiencia)

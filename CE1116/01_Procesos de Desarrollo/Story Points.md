@@ -1,0 +1,1 @@
+Es una forma de expresar o medir la cantida de trabajo que requiere una tarea o historia del producto

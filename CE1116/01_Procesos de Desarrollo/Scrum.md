@@ -1,0 +1,1 @@
+Un aspecto de la filosofia agil que organiza el desarrollo en ciclos cortos llamados scrums donde todos tienen sus roles y respondabilidades definidas

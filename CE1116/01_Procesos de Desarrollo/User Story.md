@@ -1,0 +1,1 @@
+Es una descripcion de una funcionalidad desde el punto de vista del usuario

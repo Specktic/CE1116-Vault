@@ -1,0 +1,1 @@
+Es un tablero que muestra el estado de las tareas del sprint

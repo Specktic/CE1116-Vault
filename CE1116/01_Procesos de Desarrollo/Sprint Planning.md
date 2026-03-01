@@ -1,0 +1,1 @@
+Es donde se decide que se va a hacer en el proximo sprint

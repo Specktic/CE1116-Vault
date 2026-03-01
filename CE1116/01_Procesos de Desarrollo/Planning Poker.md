@@ -1,0 +1,1 @@
+Es una tecnica donde el equipo le asigna los story points a las tareas por consenso comun

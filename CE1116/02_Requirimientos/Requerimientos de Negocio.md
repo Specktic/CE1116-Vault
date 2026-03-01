@@ -1,0 +1,1 @@
+Son las necesidades generales que describen lo que se debe resolver y que valor se supone que se va a generar
